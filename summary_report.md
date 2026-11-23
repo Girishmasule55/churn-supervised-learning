@@ -1,6 +1,6 @@
 # Customer Churn Prediction — Summary Report
 
-> **Complete this report after running the notebook. Replace every bracketed prompt with findings from your actual outputs. Do not invent or estimate model metrics.**
+
 
 ## 1. Business Problem and Dataset
 
